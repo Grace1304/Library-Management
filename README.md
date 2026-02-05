@@ -3,7 +3,7 @@
 Library
 
 ### Installation
-
+## How to install
 You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
